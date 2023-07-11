@@ -1,6 +1,6 @@
 # Cleyton Rafael de Andrade
 
-Brasileiro, casado, 30 anos
+Brasileiro, casado, 33 anos
 
 Rua Manoel Loureiro Bexiga, 280, Mandaguari - PR
 
@@ -19,7 +19,13 @@ E-mail: andrade200890@gmail.com
 
 #### Experiência Profissional
 
- * ##### 2010 - Atual - Romagnole
+ * ##### 2023 - Atual - PAM Saúde
+
+   Cargo: Analista de Sistemas
+
+   Principais atividades: Desenvolvimento e Manutenção nos Sistemas vigentes Empresa.
+ 
+ * ##### 2010 - 2023 - Romagnole
 
    Cargo: Soldador
 
@@ -48,7 +54,7 @@ E-mail: andrade200890@gmail.com
 
 <center>
     Cleyton Rafael de Andrade<p/>
-    Na busca por uma vaga de Programador.
+    Estar aberto a novos desafios, buscando sempre o melhor desempenho.
 </center>
 
 
