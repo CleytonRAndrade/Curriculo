@@ -1,6 +1,6 @@
 # Cleyton Rafael de Andrade
 
-Brasileiro, casado, 33 anos
+Brasileiro, casado, 34 anos
 
 Rua Manoel Loureiro Bexiga, 280, Mandaguari - PR
 
@@ -10,7 +10,7 @@ E-mail: andrade200890@gmail.com
 
 #### Objetivo
 
-​	Desenvolvedor Fullstack / Programador
+​	Desenvolvedor / Programador
 
 #### Formação
 
@@ -25,18 +25,6 @@ E-mail: andrade200890@gmail.com
 
    Principais atividades: Desenvolvimento e Manutenção nos Sistemas vigentes Empresa.
  
- * ##### 2010 - 2023 - Romagnole
-
-   Cargo: Soldador
-
-   Principais atividades: Soldagem de peças destinadas a confecção de transformadores de energia elétrica.
-
- * ##### 2009 - 2010 - Exército Brasileiro 30° Batalhão de Infantaria Motorizado
-
-   Cargo: Soldado
-
-   Principais atividades: Auxiliar administrativo e segurança.
-
 #### Qualificação e Atividades Complementares
 
 	* 2011 , Curso de capacitação em Operador de Processo de Produção pelo SENAI 
@@ -44,8 +32,9 @@ E-mail: andrade200890@gmail.com
 
 #### Informações Adicionais
 
-​	Carta de referência do Exército Brasileiro como auxiliar administrativo e segurança.
-
+​	Sou determinado em facilitar a vida das pessoas a terem uma excelente experiência com a tecnologia, desenvolvendo rotinas 
+        automatizadas e analisando e debugando código para tratar possíveis erros, testando e implementando atualização em sistemas 
+        existentes.
 
 
 <center>
